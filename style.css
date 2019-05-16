@@ -1,0 +1,22 @@
+.container {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.editGuessRemain {
+    display: flex;
+    padding-top: 15px;
+    justify-content: center;
+}
+
+.wrongGuess {
+    z-index: 999;
+}
+
+.correctGuess {
+    z-index: 998;
+}
+
+.editButtons {
+    display: inline;
+}
